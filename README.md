@@ -1,6 +1,6 @@
 😎 I'm a Full stack developer with 5+ years of hands on experience, open to work for Remote jobs
 
-👻 I’m interested in Web3, Blockchain, Metaverse, NFT
+👻 I’m interested in Web3, Blockchain, Metaverse, NFT, DEFI and DAOs
 
 ✅ Experience in bulk minting NFT's on Ethereum and Solana chain
 
