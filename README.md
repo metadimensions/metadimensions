@@ -4,7 +4,7 @@
 
 ✅ Experience in bulk minting NFT's on Ethereum and Solana chain
 
-👨🏻‍💻 I’m currently working on Blockchain protocols - Ethereum, Solana, Polkadot
+👨🏻‍💻 Experience in working with EVM compatible chain and Solana
 
 🎮 Experience working with Unity 3D, Construct, WebGL - Three JS, Phaser
 
