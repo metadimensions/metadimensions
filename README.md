@@ -8,7 +8,7 @@
 
 🎮 Experience working with Unity 3D, Construct, WebGL - Three JS, Phaser
 
-🚀 I have experience working on ERC 20, ERC-721, ERC 1155 and ERC 721A Smart contracts - Solidity and currently learning Rust, Cadence
+🚀 I have experience working on ERC 20, ERC-721, ERC 1155 and ERC 721A Smart contracts - Solidity and Rust - Anchor
 
 💻 I’m looking to collaborate on Blockchain Projects or Jobs as full time or part time
 
