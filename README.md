@@ -2,6 +2,8 @@
 
 👻 I’m interested in Web3, Blockchain, Metaverse, NFT, DEFI, DAOs, Web 3 Infrastructure, Protocol, and Consensus layer
 
+😅 Currently exploring Zero-knowledge proofs - ping me for any doubts on the Zk layer or want to work with any Zero-knowledge based ideas
+
 👨🏻‍💻 Experience in working with EVM compatible chain, Solana, Flow, and Starknet 
 
 🎮 Experience working with Unity 3D, Construct, WebGL - Three JS, Phaser
